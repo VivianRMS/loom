@@ -2,6 +2,10 @@
 
 Loom is a collection of reusable, generalizable skills you can adapt to your vault.
 
+## 📹 Walkthrough
+
+[▶ Watch the Loom guide](https://github.com/VivianRMS/loom/releases/download/v0.1/loom-guide.mp4) — also available on the [v0.1 release page](https://github.com/VivianRMS/loom/releases/tag/v0.1).
+
 ## What You Get
 
 - **`general-skills/`** — Ready-made skill templates (video research, and more coming)
